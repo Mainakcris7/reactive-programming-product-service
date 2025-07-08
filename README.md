@@ -74,7 +74,6 @@ cd reactive-programming
 - Understood the basics of reactive streams and backpressure
 - 
 ## 🚀 Future Improvements
-- Add unit and integration tests (`WebTestClient`, `StepVerifier`)
 - Add validation using `Hibernate Validator`
 - Create DTO package and implement DTO classes
 - Dockerize the application with `docker compose`.
