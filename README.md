@@ -72,7 +72,8 @@ cd reactive-programming
 - Implemented non-blocking CRUD operations using R2DBC with MySQL
 - Practiced working with Mono and Flux for reactive data handling
 - Understood the basics of reactive streams and backpressure
-- 
+- Implemented CI/CD workflow with `GitHub Actions` to build, test, and deploy the app as a `Docker` image to Docker Hub.
+  
 ## 🚀 Future Improvements
 - Add validation using `Hibernate Validator`
 - Create DTO package and implement DTO classes
