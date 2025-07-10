@@ -1,3 +1,4 @@
+-- CREATE DATABASE IF NOT EXISTS spring_boot_practice;
 use spring_boot_practice;
 
 CREATE TABLE products(
